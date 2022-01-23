@@ -3,4 +3,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
+Use the lefcreated a branch, created a file and made a commit, and opened a pull requestt arrow to go back!
